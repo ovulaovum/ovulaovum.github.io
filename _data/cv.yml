@@ -73,22 +73,17 @@
     - title: Decision Analytics with Rank Uncertainty
       institution: Joint work with Prof. Songhao Wang and Prof. Qiaochu He, submitted to <em>Operations Research</em> as Technical Note.
       year: 2022 
-      description: In this article, we propose a robust optimization framework to deal with decision problems wherein uncertainty occurs in a rank aggregation process. 
-      A constraint generation based algorithm is designed for tractable computation. We also derive theoretical guarantees for the likelihood of the ground truth rank, 
-      which in turn helps to quantify the size of the uncertainty set.
+      description: In this article, we propose a robust optimization framework to deal with decision problems wherein uncertainty occurs in a rank aggregation process. A constraint generation based algorithm is designed for tractable computation. We also derive theoretical guarantees for the likelihood of the ground truth rank, which in turn helps to quantify the size of the uncertainty set.
     
     - title: Market Allocation and Bidder Coalition in Auctions with a Dual-Roled Principal
       institution: Joint work with Prof. Hanlin Liu and Prof. Qiaochu He, submitted to <em>Production and Operations Management</em>.
       year: 2022
-      description: In this article, we discuss a medical resource allocation problem and propose an integrated two-tiered mechanism under a cooperative game theory framework, 
-      consisting of a second-price auction and a secondary market game. We also discuss the strategies of a dual-roled and self-interested principal who is also a participant, 
-      and show that he has incentive to bid untruthfully in the auction.
+      description: In this article, we discuss a medical resource allocation problem and propose an integrated two-tiered mechanism under a cooperative game theory framework, consisting of a second-price auction and a secondary market game. We also discuss the strategies of a dual-roled and self-interested principal who is also a participant, and show that he has incentive to bid untruthfully in the auction.
 
     - title: Information Design for Games with Negative Externalities
       institution: Joint work with Prof. Zhuo Feng and Prof. Qiaochu He, work in progress.
       year: 2022
-      description: In this work, we consider a problem that a central planner disseminates information strategically using Bayesian persuasion when negative externalities exist. 
-      Examples of such settings include team productions, Cournot competitions, routing games, queueing games, etc.
+      description: In this work, we consider a problem that a central planner disseminates information strategically using Bayesian persuasion when negative externalities exist. Examples of such settings include team productions, Cournot competitions, routing games, queueing games, etc.
      
 - title: Conference Presentations
   type: time_table
