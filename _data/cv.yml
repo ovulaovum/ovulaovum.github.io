@@ -13,7 +13,7 @@
   contents:
     - title: M.S. in Business Intelligence and Big Data Analysis
       institution: Southern University of Science and Technology, Shenzhen, China
-      year: 2023(expected)
+      year: 2021-2023
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -23,7 +23,7 @@
       #       - Sub-description 2.
     - title: B.S. in Mathematics
       institution: Fudan University, Shanghai, China
-      year: 2020
+      year: 2016-2020
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -109,7 +109,7 @@
 
     - title: Teaching Assistant
       institution: Southern University of Science and Technology, Shenzhen, China
-      year: Spring 2022
+      year: Fall 2022
       description: MIS306 Data Mining and Business Applications
 
 - title: Work Experience
@@ -123,6 +123,6 @@
   type: map
   contents:
     - name: Programming Languages
-      value : Python, Java, Matlab
+      value: Python, Java, Matlab
     - name: Tools
       value: Sklearn, Gurobi, CPLEX
