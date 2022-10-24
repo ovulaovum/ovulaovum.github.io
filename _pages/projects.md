@@ -4,8 +4,8 @@ title: Research
 permalink: /projects/
 description: Under construction
 nav: true
-nav_order: 
-display_categories: []
+nav_order: 1
+display_categories: [work]
 horizontal: true
 ---
 
