@@ -4,6 +4,7 @@ title: Decision Analytics with Rank Uncertainty
 description: Joint work with Prof. Songhao Wang and Prof. Qiaochu He, submitted to <em>Operations Research</em> as Technical Note. 
 img:
 importance: 1
+redirect : https://ovulaovum.github.io/assets/pdf/rank_uncertainty.pdf
 category: Working paper 
 ---
 

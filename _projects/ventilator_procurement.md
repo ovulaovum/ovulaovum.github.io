@@ -4,6 +4,7 @@ title: Market Allocation and Bidder Coalition in Auctions with a Dual-Roled Prin
 description: Joint work with Prof. Hanlin Liu and Prof. Qiaochu He, submitted to <em>Production and Operations Management</em>.
 img:
 importance: 2
+redirect : https://ovulaovum.github.io/assets/pdf/ventilators_procurement.pdf
 category: Working paper
 ---
 
