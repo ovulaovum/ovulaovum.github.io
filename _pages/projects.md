@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /projects/
-description: Under construction
+description: 
 nav: true
 nav_order: 1
-display_categories: [work]
+display_categories: [Publication, Working paper, Work in progress]
 horizontal: true
 ---
 
